@@ -1,0 +1,12 @@
+---- COOL_MODE Matches (11 in 2 files) ----
+App.c (app):	}else if(App_Para.HC_Sta == COOL_MODE){
+App.c (app):		}else if(App_Para.HC_Sta == COOL_MODE){
+App.c (app):		}else if(App_Para.HC_Sta == COOL_MODE){
+App.c (app):		if(App_Para.HC_Sta != COOL_MODE){
+App.c (app):			App_Para.HC_Sta = COOL_MODE;
+App.c (app):                                    if(App_Para.HC_Sta != COOL_MODE){
+App.c (app):                            			App_Para.HC_Sta = COOL_MODE;
+App.c (app):                                    if(App_Para.HC_Sta != COOL_MODE){
+App.c (app):                            			App_Para.HC_Sta = COOL_MODE;
+App.c (app):	if((App_Para.CoolAutoCnt >= COOL_AUTO_CLOSE) && App_Para.HC_Sta == COOL_MODE){
+App.h (app):	COOL_MODE
